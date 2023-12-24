@@ -4,7 +4,9 @@ Search by category, niche, username, and more to connect with your favorite crea
 
 This repository contains a basic Python script that demonstrates how to fetch HTML content from a website using the `requests` library.
 
-## How to Run
+## Repository Structure
+
+This section provides a brief description of the purpose of each file in the repository and explains how the files interact with each other. For example, the *simple_web_scraping_example.py* file contains a basic Python script that demonstrates how to fetch HTML content from a website using the `requests` library. In this case, since there is only one Python file, there is no interaction between different Python files.
 
 1. Clone the repository.
 2. Run `pip install requests` to install the required package.

@@ -4,11 +4,11 @@
         <content>
             Search by category, niche, username, and more to connect with your favorite creators. Use this OnlyFans Finder to search in 3,000,000 OnlyFans Accounts
         </content>
-    </section>
+    *New section* -  <README_structure>OnlyFansContent:
     <section>
-        <title>Simple Web Scraping Example</title>
+        <title>Search Engine Structure</title>
         <content>
-            This repository contains a basic Python script that demonstrates how to fetch HTML content from a website using the `requests` library.
+            Search by category, niche, username, and more to connect with your favorite creators. Use this OnlyFans Finder to search in 3,000,000 OnlyFans Accounts
         </content>
     </section>
 </repo_structure>
